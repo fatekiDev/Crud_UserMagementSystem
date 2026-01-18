@@ -1,4 +1,4 @@
-# CrudWebBaseDeDatos
+# UserMagementSystem
 
 Aplicación web desarrollada como proyecto de aprendizaje para el ramo de **Bases de Datos**, que implementa un **CRUD completo** utilizando **Node.js, Express y MySQL**, siguiendo una arquitectura tipo **API REST**.
 
