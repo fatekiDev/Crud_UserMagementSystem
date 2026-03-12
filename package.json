@@ -1,0 +1,24 @@
+{
+  "name": "user-management-system",
+  "version": "1.0.0",
+  "description": "User management system using Node.js, Express and MySQL",
+  "keywords": [
+    "node",
+    "express",
+    "mysql",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "FatekiDev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.1"
+  }
+}
